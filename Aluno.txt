@@ -2,3 +2,4 @@ Aluno Nicolas Menegardo Lourenço
 Turma: PFUS01
 Unidade Curricular: Versionamento
 Empresa: Água viva
+Frase sobre vercionamento:"Versionamento é essencial para manter o controle das mudanças em um projeto, permitindo rastrear, comparar e reverter alterações com segurança e eficiência."
